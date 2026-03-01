@@ -14,7 +14,7 @@ This is a fictional hair salon website created for portfolio practice.
 - CSS
 
 ## Demo
-[https://hayatosaita.github.io/hair-salon-website/](https://hayatosaita.github.io/hair-salon-website/)
+[https://hayatosaita.github.io/hair-salon-website-practice/](https://hayatosaita.github.io/hair-salon-website-practice/)
 
 ## Author
 https://github.com/hayatosaita
